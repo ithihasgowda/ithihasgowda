@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ithihasgowda
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning linear algebra for ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ITHIHASGOWDA@GMAIL.COM
 - 😄 Pronouns: ...
